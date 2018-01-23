@@ -1,4 +1,5 @@
-Esta linea es local
+
+Esta linea es mejorada resolviendo el conflicto.
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for wolfman
 Esta linea la agrega Leticia y no tiene comentarios de marte
